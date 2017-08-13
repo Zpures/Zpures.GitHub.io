@@ -1,6 +1,8 @@
 # There is the Zpures'bolg.
 just beginning.
 
+遇到问题先到这里找答案：
+[issue and solution](https://github.com/Huxpro/huxpro.github.io/issues)
 
 ## 致谢
 
