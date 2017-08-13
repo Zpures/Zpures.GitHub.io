@@ -12,11 +12,11 @@ baseurl: "/zpures.github.io"         # for example, '/blog' if your blog hosted 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
+#weibo_username:     huxpro
+zhihu_username:     shang-guan-zhi-chun
 github_username:    Zpures
 #twitter_username:  huxpro
-facebook_username:  huxpro
+#facebook_username:  huxpro
 
 
 
