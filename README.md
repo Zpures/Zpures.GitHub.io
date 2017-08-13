@@ -12,4 +12,5 @@ just beginning.
 #### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
 
 #### [View Live Hux Blog &rarr;](http://huangxuan.me)
+#### 这个博主也给了很多帮助[Microdust](http://azeril.github.io/).
 
